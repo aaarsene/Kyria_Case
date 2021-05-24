@@ -7,6 +7,9 @@ Open Source Kyria Case Files
 
 ![Kyria 36 keys](./img/kyria-36keys.png)
 
+# Coumbaya inspired
+
+![Coumbaya inspired](./img/kyria-coumbaya.jpg)
 
 # Oled cover
 
